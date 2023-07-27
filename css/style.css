@@ -220,23 +220,23 @@ body {
 
 @media (max-width: 540px) {
   .title {
-    font-size: 24px;
+    font-size: 5.5vw;
   }
   .subtitle {
-    font-size: 22px;
+    font-size: 5.2vw;
   }
   .logo {
-    width: 200px;
+    width: 48vw;
   }
   .gear {
-    width: 300px;
+    width: 75vw;
   }
   .gear__1 {
-    top: -140px;
-    left: -140px;
+    top: -35vw;
+    left: -35vw;
   }
   .gear__2 {
-    bottom: -140px;
-    right: -140px;
+    bottom: -35vw;
+    right: -35vw;
   }
 }
